@@ -10,6 +10,8 @@ first Firebase powered Ionic app** which covers:
 * Firebase Security Rules.
 * ...and more.
 
+This app uses Ionic Framework version 3.9.2, if you want to use Ionic version 4+ with Angular then [this repo is for you](https://github.com/javebratt/event-tutorial-v4)
+
 ![Screenshot of the Event Manager App](https://javebratt.com/wp-content/uploads/2017/12/banner.png)
 
 ## Installation
